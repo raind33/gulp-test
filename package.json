@@ -1,0 +1,33 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "gulp练习",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raind33/gulp-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raind33/gulp-test/issues"
+  },
+  "homepage": "https://github.com/raind33/gulp-test#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-load-plugins": "^2.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": [
+    "last 2 Version",
+    ">2%"
+  ]
+}
